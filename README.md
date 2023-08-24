@@ -1,0 +1,1 @@
+# go-zond-wallet-types
