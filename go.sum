@@ -1,0 +1,4 @@
+github.com/google/uuid v1.3.1 h1:KjJaJ9iWZ3jOFZIf1Lqf4laDRCasjl0BCmnEGxkdLb4=
+github.com/google/uuid v1.3.1/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
+github.com/theQRL/go-zond-types v0.0.0-20230824233758-ea0b707a1e23 h1:9ifrMzlO0V61aT0nThIPFaEu83VAImLhAWGg5ppDf9A=
+github.com/theQRL/go-zond-types v0.0.0-20230824233758-ea0b707a1e23/go.mod h1:gjp3SOqgnqxyj/n+RQcZcylby03rtJiZefeQysj39NI=
